@@ -13,7 +13,7 @@ Description:
         None --> this stored procedure does not take any parameters or return any values.
 
     Usage Example:
-        EXEC Bronze.load_bronze;
+        EXEC bronze.load_bronze;
 ===================================================================================================================================================================
 */
 
